@@ -59,9 +59,9 @@ The global visual AI and computer vision market size is estimated at **~$20 Bill
 
 ## ⚡ Open-Source GitHub Projects
 
-Below is a comprehensive list of open-source computer vision repositories, foundation models, and deep learning tools, **sorted by GitHub Star Count (Descending)**.
+Below is a comprehensive list of open-source computer vision repositories, foundation models, and deep learning tools, **sorted by GitHub Stars_Count (Descending)**.
 
-| Repository | GitHub Stars Badge | License | Primary Category & Key Highlights |
+| Repository | GitHub_Stars_Badge | License | Primary Category & Key Highlights |
 | :--- | :--- | :--- | :--- |
 | **[OpenCV](https://github.com/opencv/opencv)** | [<img src="https://img.shields.io/github/stars/opencv/opencv?style=social&color=white" alt="OpenCV Stars"/>](https://github.com/opencv/opencv/stargazers) | Apache-2.0 | **Foundational Vision**: The classic C++/Python library for image processing, feature extraction, object tracking, and camera calibration. |
 | **[Tesseract OCR](https://github.com/tesseract-ocr/tesseract)** | [<img src="https://img.shields.io/github/stars/tesseract-ocr/tesseract?style=social&color=white" alt="Tesseract Stars"/>](https://github.com/tesseract-ocr/tesseract/stargazers) | Apache-2.0 | **OCR Engine**: Standard open-source optical character recognition engine supporting 100+ languages. |
@@ -96,7 +96,7 @@ Contributions are warmly welcome! Help make this curated visual AI directory eve
 
 1. **Fork** the repository.
 2. Add your suggested SaaS product or open-source tool to `README.md` following the table formatting.
-3. Ensure open-source projects include their star badge, license, and primary category.
+3. Ensure open-source projects include their Stars_Badge, license, and primary category.
 4. Submit a **Pull Request** with a clear title and short summary of your addition.
 
 ---
